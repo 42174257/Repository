@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.902
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chicken", "Chicken\Chicken.csproj", "{CFA74DB7-AD77-43BD-8613-6DA46402FB2D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{4D10B322-26CD-498F-AD79-44AB53606EE8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AI", "AI\AI.csproj", "{705BC6C4-F97E-41D2-829B-4C721938EE6A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{CFA74DB7-AD77-43BD-8613-6DA46402FB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CFA74DB7-AD77-43BD-8613-6DA46402FB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CFA74DB7-AD77-43BD-8613-6DA46402FB2D}.Release|Any CPU.Build.0 = Release|Any CPU
-		{4D10B322-26CD-498F-AD79-44AB53606EE8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{4D10B322-26CD-498F-AD79-44AB53606EE8}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{4D10B322-26CD-498F-AD79-44AB53606EE8}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{4D10B322-26CD-498F-AD79-44AB53606EE8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{705BC6C4-F97E-41D2-829B-4C721938EE6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{705BC6C4-F97E-41D2-829B-4C721938EE6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{705BC6C4-F97E-41D2-829B-4C721938EE6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{705BC6C4-F97E-41D2-829B-4C721938EE6A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
