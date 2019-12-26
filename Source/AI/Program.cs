@@ -69,7 +69,7 @@ namespace AI
             }
             catch (FileNotFoundException)
             {
-                Console.WriteLine(@"这个例子需要一个名为 C:\temp\tempFile.txt 的文件。");
+                Console.WriteLine(@"这个例子需要一个名为 tempFile.txt 的文件。");
                 return;
             }
 
